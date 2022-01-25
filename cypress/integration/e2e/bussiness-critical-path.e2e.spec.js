@@ -53,7 +53,7 @@ describe('About You E2E Business Critical Path', () => {
 
         // If there is sizing available, the sizing options list should open
         cy.get('body').then(body => {
-            if (body.find('[data-testid*="sizeFlyout"]').length > 0) {
+            if (body.find('[data-testid="sizeFlyout"]').length > 0) {
                 const sizeOptionsList = cy.get('[data-testid*="sizeFlyout"]').then(sizeOptionList => {
 
                     // It seems that there are more than one templates for lists
