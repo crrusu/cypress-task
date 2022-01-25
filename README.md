@@ -3,17 +3,17 @@ Cypress-task covers the business critical path of About you online shop.
 
 ## Prerequisites
 
-1. Install Node.js (12 or 14 and above)
-2. Install npm
-3. Install Cypress 
+Install Node.js (12 or 14 and above) and npm
 
 
 ## Run
 
+1. Run `npm install`
+2. Run test headeless with
 ```
-npx cypress run
-```
-Run with GUI:
+ npx cypress run
+``` 
+OR run test with Cypress interface
 ```
 npx cypress open
 ```
