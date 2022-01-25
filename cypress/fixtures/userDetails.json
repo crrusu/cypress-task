@@ -1,0 +1,10 @@
+{
+  "firstName": "Testcustomer",
+  "lastName": "Customer",
+  "emailAddress": "@test.com",
+  "password": "TestPassword!",
+  "streetAndNumber": "Ida-Ehre-Platz 4",
+  "zipCode": "20095",
+  "city": "Hamburg",
+  "birthDate": "10.06.1990"
+}

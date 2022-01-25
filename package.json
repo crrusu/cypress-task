@@ -1,0 +1,16 @@
+{
+  "name": "cypress-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.1",
+    "cypress-localstorage-commands": "^1.6.1",
+    "cypress-wait-until": "^1.7.2"
+  }
+}
